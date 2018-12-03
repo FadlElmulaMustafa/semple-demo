@@ -1,2 +1,3 @@
 # semple-demo
-No thing
+
+This is just and example repository
